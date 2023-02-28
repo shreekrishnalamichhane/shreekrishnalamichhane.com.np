@@ -245,3 +245,9 @@ code::selection {
     background-color: var(--background-color);
     color: var(--text-color);
 }
+
+#projects li h6,
+#projects li p b,
+#projects li .row b {
+    color: var(--demo-link-color);
+}
